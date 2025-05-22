@@ -11,11 +11,11 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 🌐 Social media
 
-[![Social media](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![Social media](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-[![Social media](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![Social media](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![Social media](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+<a href="https://discord.com/">[![Social media 1](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)</a>
+[![Social media 2](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![Social media 3](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![Social media 4](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Social media 5](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 
 <!--
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
