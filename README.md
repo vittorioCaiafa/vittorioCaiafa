@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Passionate and dedicated Systems Engineer, 23 years old, graduated from Universidad ORT Uruguay. Experienced in agile software development and with solid foundation in full-stack development and system integration. Focused on delivering scalable, high-quality solutions that drive business growth and digital transformation. Currently seeking a new challenge in a dynamic team where I can grow and contribute through creative, efficient problem-solving.
 
-## Languages
+## 💻 Languages
 <span>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
@@ -22,7 +22,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <span>
 
-## Hosting
+## 🌐 Hosting
 </span>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
