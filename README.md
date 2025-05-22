@@ -3,17 +3,19 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
 
 ## ⚙ Tools and programs
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)](https://skillicons.dev)
+[![Tools and programs](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)](https://skillicons.dev)
 
 ## 🌐 Social media
 
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin,twitter)](https://skillicons.dev)
-
-![](https://github.com/vittorioCaiafa/github-readme-stats)
+[![Social media](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![Social media](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![Social media](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![Social media](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Social media](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 
 <!--
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
