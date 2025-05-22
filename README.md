@@ -25,32 +25,11 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 [![Tools and programs](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)]()
 
 ### 🌐 Social media
-<span style="margin-right: 10px;">
-  <a href="https://discord.com/users/123456789012345678">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-  </a>
-</span>
-<span style="margin-right: 100px;">
-  <a href="mailto:vittorio.caiafa@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-  </a>
-</span>
-<span style="margin-right: 10px;">
-  <a href="https://www.instagram.com/vittocaiafa/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-  </a>
-</span>
-<span style="margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/vittorio-caiafa/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
-  </a>
-</span>
-<span>
-  <a href="https://twitter.com/vittocaiafa?s=21&t=f4L4zq8FkqALNJRPnHRj0g">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-  </a>
-</span>
-
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/123456789012345678)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa?s=21&t=f4L4zq8FkqALNJRPnHRj0g)
 
 <!--
 ### 📃 Curriculum Vitae
