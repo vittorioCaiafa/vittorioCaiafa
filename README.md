@@ -11,7 +11,9 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bash,docker)](https://skillicons.dev)
 
-## 🌐 Hosting
+## 🌐 Social media
+
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
 
 
 <!--
