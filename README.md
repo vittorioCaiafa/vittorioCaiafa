@@ -5,7 +5,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
 
 ## ⚙ Tools and programs
 
