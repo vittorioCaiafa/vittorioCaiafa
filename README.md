@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 🚀 About Me
+I'm a full stack developer...
+
+## Languages
+
+<span>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</span>
+
 <!--
 **vittorioCaiafa/vittorioCaiafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
