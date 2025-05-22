@@ -24,7 +24,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 🌐 Hosting
 </span>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="[https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg)">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
     <img src="">
     <img src="">
