@@ -5,15 +5,14 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
+
+## ⚙ Tools and programs
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bash,docker)](https://skillicons.dev)
 
 ## 🌐 Hosting
-</span>
-    <img src="[https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg)">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
-    <img src="">
-    <img src="">
-</span>
+
 
 <!--
 **vittorioCaiafa/vittorioCaiafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
