@@ -3,15 +3,15 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 💻 Languages
 
-[![Languages](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)]()
 
 ## ⚙ Tools and programs
 
-[![Tools and programs](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)](https://skillicons.dev)
+[![Tools and programs](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)]()
 
 ## 🌐 Social media
 
-<a href="https://discord.com/">[![Social media 1](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)</a>
+[![Social media 1](https://skillicons.dev/icons?i=discord)]((https://discord.com/))
 [![Social media 2](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 [![Social media 3](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 [![Social media 4](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
