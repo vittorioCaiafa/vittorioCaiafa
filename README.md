@@ -8,7 +8,7 @@ I hope you find something here that inspires you, helps you, or simply brings yo
 
 ---
 
-Here you'll find more about me, my projects, favorite technologies, and the things I love to build.
+Here you'll find more about me, my projects, technologies, and the things I love to build.
 
 </div>
 
