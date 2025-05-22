@@ -15,8 +15,8 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-https://twitter.com/vittocaiafa?s=21&t=f4L4zq8FkqALNJRPnHRj0g
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa?s=21&t=f4L4zq8FkqALNJRPnHRj0g)
+
 <!--
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 -->
