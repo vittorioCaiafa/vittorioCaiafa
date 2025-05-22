@@ -9,24 +9,8 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## ⚙ Tools and programs
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bash,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bash,docker,figma,mongodb,notion,npm,ps,postgres,postman,powershell,selenium,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ## 🌐 Social media
 
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
-
-
-<!--
-**vittorioCaiafa/vittorioCaiafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin,twitter)](https://skillicons.dev)
