@@ -9,7 +9,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## ⚙ Tools and programs
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,bash,docker,figma,mongodb,notion,npm,ps,postgres,postman,powershell,selenium,visualstudio,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)](https://skillicons.dev)
 
 ## 🌐 Social media
 
