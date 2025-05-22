@@ -11,7 +11,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 ## 🌐 Social media
 
-[![Social media 1](https://skillicons.dev/icons?i=discord)]((https://discord.com/))
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/123456789012345678)
 [![Social media 2](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 [![Social media 3](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 [![Social media 4](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
