@@ -13,6 +13,8 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
 
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin,twitter)](https://skillicons.dev)
 
+[](https://github.com/vittorioCaiafa/github-readme-stats)
+
 <!--
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 -->
