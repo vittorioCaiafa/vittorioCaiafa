@@ -30,7 +30,7 @@ Passionate and dedicated Systems Engineer, 23 years old, graduated from Universi
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
   </a>
 </span>
-<span style="margin-right: 10px;">
+<span style="margin-right: 100px;">
   <a href="mailto:vittorio.caiafa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
