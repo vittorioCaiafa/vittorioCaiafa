@@ -1,4 +1,4 @@
-[CV_Vittorio_Caiafa_EN.pdf](https://github.com/user-attachments/files/28351370/CV_Vittorio_Caiafa_EN.pdf)<div align="center">
+<div align="center">
 
 # Vittorio Caiafa
 ### Software Engineer · Full-Stack · Systems Integration
@@ -21,9 +21,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 - 🔭 Currently working on personal and open-source projects
 - 🌱 Always sharpening skills in cloud infrastructure and modern frontend frameworks
 - 💼 Open to full-time or remote software engineering roles
-- 📄 [Download my CV]
-
-[Uploading CV_Vittorio_Caiafa_EN.pdf…]()
+- 📄 [Download my CV](https://github.com/user-attachments/files/28351370/CV_Vittorio_Caiafa_EN.pdf)
 
 ---
 
