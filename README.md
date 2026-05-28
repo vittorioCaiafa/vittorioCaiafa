@@ -10,7 +10,7 @@ Graduated from Universidad ORT Uruguay
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa)&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)
 
-</div>
+</div> 
 
 ---
 
