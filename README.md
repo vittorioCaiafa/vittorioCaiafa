@@ -23,7 +23,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 - 🔎 Open to full-time or remote software engineering roles
 - 📄 [Download my CV](https://github.com/user-attachments/files/28351370/CV_Vittorio_Caiafa_EN.pdf)
 
-### Current Work
+### 💼 Current Jobs
 - [SNP Group](https://www.snpgroup.com/) - Trainee Cutover
 - [OptiTask](https://landing.opti-task.com/) - Software Developer
 
