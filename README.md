@@ -21,7 +21,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 - 💼 Working for [SNP Group](https://www.snpgroup.com/) and [OptiTask](https://landing.opti-task.com/)
 - 🔭 Currently working on personal and open-source projects
 - 🌱 Always sharpening skills in cloud infrastructure and modern frontend frameworks
-- 💼 Open to full-time or remote software engineering roles
+- 🔎 Open to full-time or remote software engineering roles
 - 📄 [Download my CV](https://github.com/user-attachments/files/28351370/CV_Vittorio_Caiafa_EN.pdf)
 
 ---
