@@ -38,10 +38,3 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 **Tools & Platforms**
 
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,aws,postgres,azure,postman,visualstudio,selenium,figma,notion)]()
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vittorioCaiafa&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorioCaiafa&layout=compact&theme=dark&hide_border=true" height="150"/>
