@@ -18,7 +18,7 @@ Graduated from Universidad ORT Uruguay
 
 Full-stack Software Engineer with a Systems Engineering degree from Universidad ORT Uruguay. Experienced in agile environments, building scalable web applications and system integrations. I focus on clean architecture, maintainable code, and delivering real business value.
 
-- 💼 Working for [SNP Group](https://www.snpgroup.com/) and [OptiTask](https://landing.opti-task.com/)
+- 💼 Working for [SNP Group](https://www.snpgroup.com/)(Cutover) and [OptiTask](https://landing.opti-task.com/)(Software Developer)
 - 🔭 Currently working on personal and open-source projects
 - 🌱 Always sharpening skills in cloud infrastructure and modern frontend frameworks
 - 🔎 Open to full-time or remote software engineering roles
