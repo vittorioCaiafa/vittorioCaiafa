@@ -7,8 +7,6 @@ Graduated from Universidad ORT Uruguay
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)&nbsp;
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa)&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)
 
 </div> 
 
