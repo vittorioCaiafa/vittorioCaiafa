@@ -36,7 +36,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=aws,azure,docker,postgres,postman,selenium,figma,visualstudio,vscode,notion,ps,arduino)]()
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,aws,postgres,azure,postman,visualstudio,selenium,figma,notion)]()
 
 ---
 
