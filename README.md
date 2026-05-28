@@ -1,41 +1,43 @@
 <div align="center">
 
-# 👋 Welcome to my GitHub!
+# Vittorio Caiafa
+### Software Engineer · Full-Stack · Systems Integration
 
-Thank you for visiting this little corner where I share my ideas, projects, and learning journey.  
-Every line of code here reflects hours of effort, curiosity, and a desire to grow.  
-I hope you find something here that inspires you, helps you, or simply brings you joy.
+Graduated from Universidad ORT Uruguay · Open to new opportunities
 
----
-
-Here you'll find more about me, my projects, technologies, and the things I love to build.
-
----
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)&nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)
 
 </div>
 
+---
 
 ## 🚀 About Me
-Passionate and dedicated Systems Engineer, graduated from Universidad ORT Uruguay. Experienced in agile software development and with solid foundation in full-stack development and system integration. Focused on delivering scalable, high-quality solutions that drive business growth and digital transformation. Currently seeking a new challenge in a dynamic team where I can grow and contribute through creative, efficient problem-solving.
 
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=dotnet,angular,c,cs,cpp,css,html,java,js,jest,nodejs,py,react,ts)]()
+Full-stack Software Engineer with a Systems Engineering degree from Universidad ORT Uruguay. Experienced in agile environments, building scalable web applications and system integrations. I focus on clean architecture, maintainable code, and delivering real business value.
 
-### ⚙ Tools and programs
-[![Tools and programs](https://skillicons.dev/icons?i=arduino,aws,azure,docker,figma,notion,ps,postgres,postman,selenium,visualstudio,vscode)]()
+- 🔭 Currently working on personal and open-source projects
+- 🌱 Always sharpening skills in cloud infrastructure and modern frontend frameworks
+- 💼 Open to full-time or remote software engineering roles
+- 📄 [Download my CV](https://github.com/user-attachments/files/20400720/Curriculum.Vitae.-.Vittorio.Caiafa.English.pdf)
 
-### 🌐 Social media
-<!--[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/123456789012345678)&nbsp;-->
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vittocaiafa/)&nbsp;
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vittocaiafa?s=21&t=f4L4zq8FkqALNJRPnHRj0g)
+---
 
-<!--
-### 📃 Curriculum Vitae
-[Download](https://github.com/user-attachments/files/20400720/Curriculum.Vitae.-.Vittorio.Caiafa.English.pdf)
--->
+## 💻 Tech Stack
 
-<!--
-https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
--->
+**Languages & Frameworks**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,cs,py,java,cpp,c,html,css,dotnet,react,angular,nodejs,jest)]()
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=aws,azure,docker,postgres,postman,selenium,figma,visualstudio,vscode,notion,ps,arduino)]()
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vittorioCaiafa&show_icons=true&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorioCaiafa&layout=compact&theme=dark&hide_border=true" height="150"/>
