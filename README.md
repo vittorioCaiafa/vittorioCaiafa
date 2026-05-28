@@ -32,7 +32,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 
 **Languages & Frameworks**
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,react,vue,nodejs,html,css,angular,jest,dotnet,cs,cpp,c,docker,git)]()
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,react,vue,nodejs,html,css,angular,dotnet,cs,cpp,c,docker,git)]()
 
 **Tools & Platforms**
 
