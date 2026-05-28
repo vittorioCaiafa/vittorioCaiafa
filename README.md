@@ -3,7 +3,7 @@
 # Vittorio Caiafa
 ### Software Engineer · Full-Stack · Systems Integration
 
-Graduated from Universidad ORT Uruguay · Open to new opportunities
+Graduated from Universidad ORT Uruguay
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittorio.caiafa@gmail.com)&nbsp;
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittorio-caiafa/)&nbsp;
