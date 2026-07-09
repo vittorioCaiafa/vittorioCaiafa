@@ -25,7 +25,7 @@ Full-stack Software Engineer with a Systems Engineering degree from Universidad 
 
 ### 💼 Current Jobs
 - [SNP Group](https://www.snpgroup.com/) - Trainee Cutover
-- [OptiTask](https://landing.opti-task.com/) - Software Developer
+- [OptiTask](https://landing.opti-task.com/) - Fullstack Software Developer
 
 ---
 
